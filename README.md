@@ -8,3 +8,4 @@
 **언어 및 도구**
 
 <img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?style=flat-square&logo=replit&logoColor=white&label=repl&labelColor=red&color=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/-brightgreen?style=flat-square&logo=codeblocks&logoColor=white&label=codeblocks&labelColor=green&color=white">
