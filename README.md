@@ -6,4 +6,4 @@
 
 **언어 및 도구**
 
-<img alt="repl" src ="https://img.shields.io/badge/repl-#F26207.svg?&style=square&logo=repl&logoColor=white"/>
+<img alt="replit" src ="https://img.shields.io/badge/replit-#F26207.svg?&style=square&logo=replit&logoColor=white"/>
